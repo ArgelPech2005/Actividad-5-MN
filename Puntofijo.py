@@ -1,3 +1,8 @@
+"""   Autor:
+   Argel Jesus Pech Manrique
+   argelpech098@gmail.com
+   Version 2.0 : 14/02/2025 07:30pm
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 
